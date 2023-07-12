@@ -13,6 +13,7 @@ Snake Game Intro
 11. The styling of the project includes a window with a container for the game.
 
 ###########################################################################
+
 To Run the application
 
 1. Load the files into any IDE.
