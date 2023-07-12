@@ -16,6 +16,6 @@ Snake Game Intro
 
 To Run the application
 
-1. Load the files into any IDE.
+1. Load the files into IDE.
 2. Open the SnakeGame.java which is in the srs.
 3. Run the file.
